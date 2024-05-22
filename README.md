@@ -1,1 +1,1 @@
-This is my Readme!
+Thrifty: Back End Fuctionality of E-commerce
